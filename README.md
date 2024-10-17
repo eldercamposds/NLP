@@ -1,0 +1,2 @@
+# NLP
+aprendizado sobre nlp
