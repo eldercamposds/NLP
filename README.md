@@ -1,3 +1,3 @@
 # NLP
-Aprendizado sobre nlp
+Aprendizado sobre nlp. <br>
 Estudos em andamento, projeto ainda não finalizado.
